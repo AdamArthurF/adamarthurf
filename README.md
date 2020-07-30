@@ -9,12 +9,12 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Web Development & Mobile App Development**
 - 📫 How to reach me: **adam.faizal.af6@student.uns.ac.id**
 
-### My Skills ⚡
+### Skills, Languages, and Technologies ⚡
 * Python      
   * *Django* 
-* PHP         
-  * *Laravel*  
+* PHP
   * *CodeIgnier* 
+  * *Laravel*  
 * JavaScript  
   * *React.js* 
   * *Node.js*  
