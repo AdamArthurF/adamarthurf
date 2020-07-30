@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **adam.faizal.af6@student.uns.ac.id**
 
 ### My Skills ⚡
-- Python      -> Django 
-- PHP         -> Laravel  -> CodeIgnier 
-- JavaScript  -> React.js -> Node.js  -> React Native
+- Python      -- Django 
+- PHP         -- Laravel  -- CodeIgnier 
+- JavaScript  -- React.js -- Node.js  -- React Native
 <!--
 - 👯 I’m currently collaborating with **Labkom FMIPA UNS**
 - 🤔 I’m looking for help with ...
