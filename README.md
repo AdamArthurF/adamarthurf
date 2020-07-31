@@ -11,14 +11,14 @@ Here are some ideas to get you started:
 
 ### Skills, Languages, and Technologies ⚡
 * Python      
-  * **Django** 
+  * [**Django**](https://www.djangoproject.com) 
 * PHP
-  * **CodeIgnier** 
-  * **Laravel**  
+  * [**CodeIgnier**](https://www.codeigniter.com)
+  * [**Laravel**](https://www.laravel.com)  
 * JavaScript  
-  * **React.js** 
-  * **Node.js**  
-  * **React Native**
+  * [**React.js**](https://www.reactjs.org)
+  * [**Node.js**](https://www.nodejs.org)  
+  * [**React Native**](https://www.reactnative.dev)
 <!--
 - 👯 I’m currently collaborating with **Labkom FMIPA UNS**
 - 🤔 I’m looking for help with ...
