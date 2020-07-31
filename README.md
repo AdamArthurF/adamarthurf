@@ -14,9 +14,9 @@ Here are some ideas to get you started:
   * [**Django**](https://www.djangoproject.com) 
 * PHP
   * [**CodeIgnier**](https://www.codeigniter.com)
-  * [**Laravel**](https://www.laravel.com)  
+  * [**Laravel**](https://www.laravel.com) - [**Lumen**](https://www.lumen.laravel.com)  
 * JavaScript  
-  * [**React.js**](https://www.reactjs.org)
+  * [**React.js**](https://www.reactjs.org) - [**Next.js**](https://www.nextjs.org)
   * [**Node.js**](https://www.nodejs.org)  
   * [**React Native**](https://www.reactnative.dev)
 <!--
