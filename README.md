@@ -10,6 +10,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **adam.faizal.af6@student.uns.ac.id**
 
 ### Skills, Languages, and Technologies ⚡
+* Java - **Kotlin**
+  * [**Android**](https://developer.android.com)
 * Python      
   * [**Django**](https://djangoproject.com) 
 * PHP
