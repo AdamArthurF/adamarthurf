@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 -->
 ## Hai, namaku Adam, biasa dipanggil Arthur 👋
-Hi there, I'm Adam Arthur Faizal, a Web Developer and a Software Engineering Student from Indonesia,
+Hi there, I'm Adam Arthur Faizal, a Web Developer and a Computer Science Student from Indonesia,
 
 ### About Me 💬
 - 🔭 I’m currently studying on **Sebelas Maret University**
