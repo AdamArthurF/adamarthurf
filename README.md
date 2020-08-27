@@ -3,11 +3,14 @@
 Here are some ideas to get you started:
 -->
 ## Hai, namaku Adam, biasa dipanggil Arthur 👋
+Hi there, I'm Adam Arthur Faizal, a Web Developer and a Software Engineering Student from Indonesia,
 
 ### About Me 💬
 - 🔭 I’m currently studying on **Sebelas Maret University**
-- 🌱 I’m currently learning **Web Development & Mobile App Development**
-- 📫 How to reach me: **adam.faizal.af6@student.uns.ac.id**
+- 💻 I’m currently developing **Websites & Mobile Applications**
+- 🌱 I’m currently learning **Laravel & Kotlin**
+- 💬 Ask me about **anything, I am happy to help**
+- 📫 Please email via **adam.faizal.af6@student.uns.ac.id to reach me**
 
 ### Skills, Languages, and Technologies ⚡
 * Java - **Kotlin**
