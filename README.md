@@ -15,15 +15,28 @@ Hi there, I'm Adam Arthur Faizal, a Web Developer and a Computer Science Student
 ### Skills, Languages, and Technologies ⚡
 * Java - **Kotlin**
   * [**Android**](https://developer.android.com)
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 * Python      
   * [**Django**](https://djangoproject.com) 
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 * PHP
   * [**CodeIgnier**](https://codeigniter.com)
   * [**Lumen**](https://lumen.laravel.com) - [**Laravel**](https://laravel.com)  
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="50" src="http://codeigniter.com/assets/images/ci-logo-big.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 * JavaScript  
   * [**React.js**](https://reactjs.org) - [**Next.js**](https://nextjs.org)
   * [**Node.js**](https://nodejs.org)  
   * [**React Native**](https://reactnative.dev)
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="50" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
 <!--
 - 👯 I’m currently collaborating with ...
 - 🤔 I’m looking for help with ...
