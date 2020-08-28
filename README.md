@@ -48,6 +48,9 @@ Hi there, I'm **Adam Arthur Faizal**, a **Web Developer** and **a Computer Scien
 <img align="right" height="60" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"></code>
 <img align="right" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamarthurf&layout=compact)](https://github.com/adamarthurf/adamarthurf)
+![Arthur's github stats](https://github-readme-stats.vercel.app/api?username=adamarthurf&show_icons=true)
+
 <!--
 - 👯 I’m currently collaborating with ...
 - 🤔 I’m looking for help with ...
