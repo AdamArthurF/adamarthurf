@@ -21,11 +21,13 @@ Hi there, I'm **Adam Arthur Faizal**, a **Web Developer** and **a Computer Scien
 <img align="right" height="75" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
 <img align="right" height="75" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
 <img align="right" height="75" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
+
 * Python      
   * [**Django**](https://djangoproject.com)
 
 <img align="right" height="75" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img align="right" height="75" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
+
 * PHP
   * [**CodeIgnier**](https://codeigniter.com)
   * [**Lumen**](https://lumen.laravel.com) - [**Laravel**](https://laravel.com)
@@ -33,6 +35,7 @@ Hi there, I'm **Adam Arthur Faizal**, a **Web Developer** and **a Computer Scien
 <img align="right" height="75" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
 <img align="right" height="75" src="http://codeigniter.com/assets/images/ci-logo-big.png">
 <img align="right" height="75" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png">
+
 * JavaScript  
   * [**React.js**](https://reactjs.org) - [**Next.js**](https://nextjs.org)
   * [**Node.js**](https://nodejs.org)  
@@ -42,6 +45,7 @@ Hi there, I'm **Adam Arthur Faizal**, a **Web Developer** and **a Computer Scien
 <img align="right" height="75" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 <img align="right" height="75" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"></code>
 <img align="right" height="75" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+
 <!--
 - 👯 I’m currently collaborating with ...
 - 🤔 I’m looking for help with ...
