@@ -7,8 +7,9 @@ Hi there, I'm Adam Arthur Faizal, a Web Developer and a Computer Science Student
 
 ### About Me 💬
 - 🔭 I’m currently studying on **Sebelas Maret University**
-- 💻 I’m currently developing **Websites & Mobile Applications**
+- 💻 I’m currently developing **websites & mobile applications**
 - 🌱 I’m currently learning **Laravel & Android**
+- 🤔 My interests are **back-end and more server-side programming**
 - 💬 Ask me about **anything, I am happy to help**
 - 📫 Please email via **adam.faizal.af6@student.uns.ac.id to reach me**
 
