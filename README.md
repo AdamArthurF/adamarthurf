@@ -5,6 +5,8 @@ Here are some ideas to get you started:
 ## Hai, namaku Adam, biasa dipanggil Arthur 👋
 Hi there, I'm **Adam Arthur Faizal**, a **Web Developer** and **a Computer Science Student** from Indonesia 🇲🇨
 
+<img height="350" align="right" src="https://i.imgur.com/7oogSly.png"/>
+
 ### About Me 💬
 - 🔭 I’m currently studying on **Sebelas Maret University**
 - 💻 I’m currently developing **websites & mobile applications**
