@@ -3,6 +3,9 @@
 Here are some ideas to get you started:
 -->
 ## Hai, namaku Adam, biasa dipanggil Arthur 👋
+
+![Profile views](https://gpvc.arturio.dev/adamarthurf)
+
 Hi there, I'm **Adam Arthur Faizal**, a **Web Developer** and **a Computer Science Student** from Indonesia 🇲🇨
 
 <img width="300" align="right" src="https://i.imgur.com/7oogSly.png"/>
