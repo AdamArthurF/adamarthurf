@@ -14,9 +14,9 @@ Hi there, I'm **Adam Arthur Faizal**, a **Web Developer** and a **Computer Scien
 - 🔭 I’m currently studying on **Sebelas Maret University**
 - 💻 I’m currently developing **websites & mobile applications**
 - 🌱 I’m currently learning **Laravel & Android**
-- 🤔 My interests are **back-end & more server-side programming**
+- 🤔 My interests are **artificial intelligence, back-end & more server-side programming**
 - 👯 I’m currently collaborating with [**@Labkom FMIPA UNS**](https://github.com/labkom-mipa-uns)
-- 💼 I’m still a **college student**
+- 💼 I’m still a **college student boys**
 - 💬 Ask me about **anything, I am happy to help**
 - 📫 Please email via **adam.faizal.af6@student.uns.ac.id to reach me**
 
