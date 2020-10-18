@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 -->
 ## Hai, namaku Adam, biasa dipanggil Arthur 👋
 
-![Profile views](https://gpvc.arturio.dev/adamarthurf)
+![Profile views](https://gpvc.arturio.dev/adamarthurf) 
 
 Hi there, I'm **Adam Arthur Faizal**, a **Web Developer** and a **Computer Science Student** from Indonesia 🇲🇨
 
@@ -19,9 +19,17 @@ Hi there, I'm **Adam Arthur Faizal**, a **Web Developer** and a **Computer Scien
 - 💼 I’m still a **college student boys**
 - 💬 Ask me about **anything, I am happy to help**
 - 📫 Please email via **adam.faizal.af6@student.uns.ac.id to reach me**
+<p>
+  <a href="https://wa.me/6281234535633?text=Halooo">
+    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
+  </a>
+  <a href="https://instagram.com/adamarthurf">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>
+</p>
 
 ### Skills, Languages, and Technologies ⚡
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/-Android-%2335495e.svg?style=for-the-badge&logo=android)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
 
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
 
