@@ -2,7 +2,7 @@
 **AdamArthurF/adamarthurf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-## Hai, namaku Adam, biasa dipanggil Arthur 👋
+# Hai, namaku Adam, biasa dipanggil Arthur 👋
 
 ![Profile views](https://gpvc.arturio.dev/adamarthurf) 
 
@@ -14,7 +14,7 @@ Hi there, I'm **Adam Arthur Faizal**, a **Web Developer** and a **Computer Scien
 </p>
 <img width="300" align="right" src="https://i.imgur.com/7oogSly.png">
 
-### About Me 💬
+## About Me 💬
 - 🔭 I’m currently studying on **Sebelas Maret University**
 - 💻 I’m currently developing **websites & mobile applications**
 - 🌱 I’m currently learning **Laravel & Android**
@@ -35,7 +35,7 @@ Hi there, I'm **Adam Arthur Faizal**, a **Web Developer** and a **Computer Scien
   </a>
 </p>
 
-### Skills, Languages, and Technologies ⚡
+## Skills, Languages, and Technologies ⚡
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
 
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
