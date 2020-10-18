@@ -8,6 +8,10 @@ Here are some ideas to get you started:
 
 Hi there, I'm **Adam Arthur Faizal**, a **Web Developer** and a **Computer Science Student** from Indonesia 🇲🇨
 
+<p>
+  <a><img src="https://img.shields.io/badge/linux-black?logo=linux&logoColor=white&style=for-the-badge" /></a>
+  <a><img src="https://img.shields.io/badge/ubuntu-%23FF5722.svg?logo=ubuntu&logoColor=white&style=for-the-badge" /></a>
+</p>
 <img width="300" align="right" src="https://i.imgur.com/7oogSly.png">
 
 ### About Me 💬
@@ -25,6 +29,9 @@ Hi there, I'm **Adam Arthur Faizal**, a **Web Developer** and a **Computer Scien
   </a>
   <a href="https://instagram.com/adamarthurf">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>
+  <a href="mailto:adam.faizal.af6@student.uns.ac.id">
+    <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
