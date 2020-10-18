@@ -27,7 +27,7 @@ Hi there, I'm **Adam Arthur Faizal**, a **Web Developer** and a **Computer Scien
   <a href="https://wa.me/6281234535633?text=Halooo">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
   </a>
-  <a href="https://instagram.com/adamarthurf">
+  <a href="https://instagram.com/adam.arthur_f" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>
   <a href="mailto:adam.faizal.af6@student.uns.ac.id">
