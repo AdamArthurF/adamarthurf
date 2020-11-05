@@ -17,7 +17,7 @@ Hi there, I'm **Adam Arthur Faizal**, a **Web Developer** and a **Computer Scien
 ## 📝 About Me 💬 [🔝](#hai-namaku-adam-biasa-dipanggil-arthur-)
 - 🔭 I’m currently studying on **Sebelas Maret University**
 - 💻 I’m currently developing **websites & mobile applications**
-- 🌱 I’m currently learning **Laravel & Android**
+- 🌱 I’m currently learning **Laravel & Android**~✨ 
 - 🤔 My interests are **server-side programming and artificial intelligence**
 - 👯 I’m currently collaborating with [**@Labkom FMIPA UNS**](https://github.com/labkom-mipa-uns)
 - 💼 I’m still a **college student boys**
