@@ -12,6 +12,7 @@ Hi there, I'm **Adam Arthur Faizal**, a **Web Developer** and a **Computer Scien
   <a><img src="https://img.shields.io/badge/linux-black?logo=linux&logoColor=white&style=for-the-badge" /></a>
   <a><img src="https://img.shields.io/badge/ubuntu-%23FF5722.svg?logo=ubuntu&logoColor=white&style=for-the-badge" /></a>
 </p>
+
 <img width="300" align="right" src="https://i.imgur.com/7oogSly.png">
 
 ## 📝 About Me 💬 [🔝](#hai-namaku-adam-biasa-dipanggil-arthur-)
@@ -46,8 +47,13 @@ Hi there, I'm **Adam Arthur Faizal**, a **Web Developer** and a **Computer Scien
 
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React.js](https://img.shields.io/badge/react.js%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js%20-%2320232a.svg?&style=for-the-badge&logo=next.js&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamarthurf&layout=compact&theme=tokyonight)
-![Arthur's github stats](https://github-readme-stats.vercel.app/api?username=adamarthurf&show_icons=true&theme=tokyonight)
+![trophy](https://github-profile-trophy.vercel.app/?username=adamarthurf&theme=dracula&margin-w=15&title=MultiLanguage,Commit,Repositories,Stars,PullRequest,Followers)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamarthurf&layout=compact&theme=tokyonight&show_icons=true" alt="adamarthurf" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adamarthurf&show_icons=true&theme=tokyonight" alt="adamarthurf" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adamarthurf&theme=dark" alt="adamarthurf" /></p>
 
 <!--
 - 👯 I’m currently collaborating with ...
