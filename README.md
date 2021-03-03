@@ -47,7 +47,7 @@ Hi there, I'm **Adam Arthur Faizal**, a **Web Developer** and a **Computer Scien
 
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React.js](https://img.shields.io/badge/react.js%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js%20-%2320232a.svg?&style=for-the-badge&logo=next.js&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=adamarthurf&theme=dracula&margin-w=15&title=MultiLanguage,Commit,Repositories,Stars,PullRequest,Followers)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adamarthurf&theme=dracula&margin-w=15&title=MultiLanguage,Commit,Repositories,Stars,PullRequest,Followers" alt="adamarthurf" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamarthurf&layout=compact&theme=tokyonight&show_icons=true" alt="adamarthurf" /></p>
 
