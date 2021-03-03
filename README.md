@@ -51,9 +51,9 @@ Hi there, I'm **Adam Arthur Faizal**, a **Web Developer** and a **Computer Scien
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamarthurf&layout=compact&theme=tokyonight&show_icons=true" alt="adamarthurf" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adamarthurf&show_icons=true&theme=tokyonight" alt="adamarthurf" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=adamarthurf&show_icons=true&theme=tokyonight" alt="adamarthurf" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adamarthurf&theme=dark" alt="adamarthurf" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adamarthurf&theme=dark" alt="adamarthurf" /></p>
 
 <!--
 - 👯 I’m currently collaborating with ...
