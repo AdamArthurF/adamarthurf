@@ -13,7 +13,7 @@ Hi there, I'm **Adam Arthur Faizal**, a **Web Developer** and a **Computer Scien
   <a><img src="https://img.shields.io/badge/ubuntu-%23FF5722.svg?logo=ubuntu&logoColor=white&style=for-the-badge" /></a>
 </p>
 
-<img width="300" align="right" src="https://i.imgur.com/7oogSly.png">
+<img width="300" align="right" src="foto_sma.jpg">
 
 ## 📝 About Me 💬 [🔝](#hai-namaku-adam-biasa-dipanggil-arthur-)
 - 🔭 I’m currently studying on **Sebelas Maret University**
