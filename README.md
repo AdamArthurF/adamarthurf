@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 ![Profile views](https://gpvc.arturio.dev/adamarthurf) 
 
-Hi there, I'm **Adam Arthur Faizal**, a **Web Developer** and a **Computer Science Student** from Indonesia 🇲🇨
+Hi there, I'm **Adam Arthur Faizal**, a **Web Developer** and a **Computer Science Student** from Indonesia
 
 <p>
   <a><img src="https://img.shields.io/badge/linux-black?logo=linux&logoColor=white&style=for-the-badge" /></a>
