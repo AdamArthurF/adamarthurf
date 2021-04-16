@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 ![Profile views](https://gpvc.arturio.dev/adamarthurf) 
 
-Hi there, I'm **Adam Arthur Faizal**, a **Web Developer** and a **Computer Science Student** from Indonesia
+Hi there, I'm **Adam Arthur Faizal**, a **Web Developer** and a **Informatic Engineering Student** from Indonesia
 
 <p>
   <a><img src="https://img.shields.io/badge/linux-black?logo=linux&logoColor=white&style=for-the-badge" /></a>
@@ -16,12 +16,11 @@ Hi there, I'm **Adam Arthur Faizal**, a **Web Developer** and a **Computer Scien
 <img width="300" align="right" src="foto_sma.jpg">
 
 ## 📝 About Me 💬 [🔝](#hai-namaku-adam-biasa-dipanggil-arthur-)
-- 🔭 I’m currently studying on **Sebelas Maret University**
-- 💻 I’m currently developing **websites & mobile applications**
-- 🌱 I’m currently learning **Laravel & Android**~✨ 
-- 🤔 My interests are **server-side programming and artificial intelligence**
+- 🔭 I studied at **Sebelas Maret University**
+- 💻 I've developed many **web & mobile apps**
+- 🌱 I like to make apps with **Laravel & Android**~✨ 
+- 🤔 My interests are **server-side programming and machine learning**
 - 👯 I’m currently collaborating with [**@Labkom FMIPA UNS**](https://github.com/labkom-mipa-uns)
-- 💼 I’m still a **college student boys**
 - 💬 Ask me about **anything, I am happy to help**
 - 📫 Please email via **adam.faizal.af6@student.uns.ac.id to reach me**
 <p>
