@@ -48,11 +48,11 @@ Hi there, I'm **Adam Arthur Faizal**, a **Web Developer** and a **Informatic Eng
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adamarthurf&theme=dracula&margin-w=15&title=MultiLanguage,Commit,Repositories,Stars,PullRequest,Followers" alt="adamarthurf" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamarthurf&layout=compact&theme=tokyonight&show_icons=true" alt="adamarthurf" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamarthurf&layout=compact&theme=tokyonight&show_icons=true" alt="adamarthurf" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=adamarthurf&show_icons=true&theme=tokyonight" alt="adamarthurf" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=adamarthurf&show_icons=true&theme=tokyonight" alt="adamarthurf" />
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adamarthurf&theme=dark" alt="adamarthurf" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adamarthurf&theme=dark" alt="adamarthurf" />
 
 <!--
 - 👯 I’m currently collaborating with ...
